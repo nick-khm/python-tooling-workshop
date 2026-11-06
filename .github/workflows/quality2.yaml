@@ -3,7 +3,7 @@ on:
   push:
     branches: ["main"]
   pull_request:
-    branches: ["main"]
+    branches: ["step-06-git-workflow"]
 
 jobs:
   quality:
